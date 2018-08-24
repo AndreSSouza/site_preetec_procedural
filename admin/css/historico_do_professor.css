@@ -1,0 +1,28 @@
+#box{
+	width:900px;
+	background:#060;
+	overflow:auto;
+	height:450px;
+	}
+#box h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	margin:10px;
+	float:left;
+	}
+#box table{
+	border:2px solid #999;
+	padding:5px;
+	width:890px;
+	margin:5px;
+	background:#FFF;
+	}
+#box h2{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	}
+#box h3{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#F60;
+	margin:-10px 0 5px 0;
+	}

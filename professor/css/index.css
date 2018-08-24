@@ -1,0 +1,61 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+#box{
+	width:978px;
+	height:370px;
+	margin:-20px auto;
+	border:1px solid #333;
+	}
+	
+#relatorios{
+	float:left;
+	width:400px;
+	height:490px;
+	}
+#relatorios ul{
+	text-align:left;
+	margin:30px 0 0 0;
+	list-style-image:url(../img/seta.png);
+	}
+#relatorios ul h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:0 0 10px -22px;
+	}
+#relatorios ul li{
+	margin:0 0 8px 0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#00F;
+	}
+#relatorios .ul{
+	list-style:inside;
+	}
+#relatorios ul .li{
+	margin:0 0 8px 0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	}
+	
+	
+#notificacoes{
+	float:right;
+	width:550px;
+	margin:0 3px 0 0;
+	text-align:left;
+	height:400px;
+	}
+#notificacoes h1{
+	font:18px Arial, Helvetica, sans-serif;
+	color:#000;
+	}
+#avisos_notificacoes{
+	border:1px solid #000;
+	float:left;
+	width:550px;
+	margin:0 10px 0 0;
+	height:300px;
+	border:1px solid #CCC;
+	}

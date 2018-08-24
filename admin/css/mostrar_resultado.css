@@ -1,0 +1,10 @@
+#box{
+	}
+#box table{
+	border:1px solid #666;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box table h1{
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	}

@@ -1,0 +1,134 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+
+/*=================================== CADASTRAR CURSOS ================================*/
+	
+#box_funcionarios{
+	width:978px;
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	}
+#box_funcionarios .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_funcionarios .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#box_funcionarios h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#box_funcionarios h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#box_funcionarios table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_funcionarios h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_funcionarios .a{
+	margin:0 5px 0 0;
+	}
+
+
+/*=================================== CADASTRAR PROFESSOR ================================*/
+#cadastra_funcionarios{
+	width:978px;
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 182px;
+	border:1px solid #333;
+	}
+#cadastra_funcionarios .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#cadastra_funcionarios .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#cadastra_funcionarios h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#cadastra_funcionarios h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#cadastra_funcionarios table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#cadastra_funcionarios input{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 15px 0;
+	padding:5px;
+	width:270px;
+	color:#F90;
+	}
+#cadastra_funcionarios select{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 15px 0;
+	padding:5px;
+	height:30px;
+	width:283px;
+	color:#F90;
+	}
+#cadastra_funcionarios .input{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	padding:5px;
+	width:100px;
+	background:#039;
+	height:40px;
+	color:#FFF;
+	}
+#cadastra_funcionarios h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#cadastra_funcionarios .a{
+	margin:0 5px 0 0;
+	}

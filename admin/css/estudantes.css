@@ -1,0 +1,154 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+
+/*=================================== Aluno ================================*/
+	
+#box_aluno{
+	width:978px;
+	background: #2C82CE;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	
+	}
+#box_aluno .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#F90;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_aluno .a2:hover{
+	border:1px solid #0FF;
+	background:#F60;
+	}
+#box_aluno h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#FFF;
+	}
+#box_aluno h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#FF0;
+	}
+#box_aluno table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_aluno h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_aluno .a{
+	margin:0 5px 0 0;
+	}
+
+
+/*=================================== CADASTRAR Aluno ================================*/
+	
+#cadastra_estudante{
+
+	width:978px;
+	background:#2C82CE;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0px 0px 190px;
+	
+	}
+#cadastra_estudante .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#cadastra_estudante .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#cadastra_estudante h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#FFF;
+
+	}
+#cadastra_estudante h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#cadastra_estudante table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#cadastra_estudante input{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 15px 0;
+	padding:5px;
+	width:270px;
+	color:#F90;
+	}
+#cadastra_estudante select{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 15px 0;
+	padding:5px;
+	height:30px;
+	width:283px;
+	color:#F90;
+	}
+#cadastra_estudante textarea{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 15px 0;
+	padding:5px;
+	height:60px;
+	width:800px;
+	color:#F90;
+	}
+#cadastra_estudante .input{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	padding:5px;
+	width:100px;
+	background:#039;
+	height:40px;
+	color:#FFF;
+	}
+#cadastra_estudante h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#cadastra_estudante .a{
+	margin:0 5px 0 0;
+	}
+#cadastra_estudante h4{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 10px;
+	color:#900;
+	width:900px;
+	height:auto;
+	padding:10px;
+	background:#FFF;
+	}

@@ -1,0 +1,189 @@
+body{
+	padding:0;
+	margin:0;
+
+	}
+
+body #index{
+	
+	top: 800px;
+	width:978px;
+	background:#2C82CE;
+	height:730px;
+	float:left;
+	text-align:left;
+	margin:20px 0 20px 190px;
+	
+	}
+
+body #index #sobre{
+	width:900px;
+	background:lightgray;
+	height:650px;
+	float:left;
+	text-align:center;
+	margin:40px 0px 10px 40px;
+	
+
+	}
+
+#box_topo{
+	width:900px;
+	height:200px;
+	margin:10px auto;
+	}
+	
+#logo{
+	width:320px;
+	height:200px;
+	float:left;
+	margin:-10px 0 0 -160px;
+	}
+
+	
+#campo_busca{
+	width:450px;
+	height:80px;
+	float:right;
+	margin:60px 0 -12px 0;
+	}
+#campo_busca input{
+
+	float:left;
+	padding:10px;
+	width:300px;
+	height:10px;
+	border:1px solid #ccc;
+	font-size: 18px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:12px;
+	}
+#campo_busca .input{
+	font:14px Arial, Helvetica, sans-serif;
+	float:left;
+	margin:0 0 0 28px;
+	color: #fff;
+	background-color: #2C82CE;
+	width:100px;
+	height:33px;
+	border:0;
+	padding:6px 14px 12px 16px;
+	}
+
+#campo_busca .input:hover{
+	background-color:#0E6DBC;
+	color:#FF0;
+
+	} 
+	
+#mostra_login{
+	width:450px;
+	height:30px;
+	float:right;
+	margin:40px 0 -5px 0;
+	}
+#mostra_login h1{
+	float:left;
+	font:15px Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	}
+#mostra_login a{
+	top: -15px;
+	color: #fff;
+	text-decoration: none;
+	margin:0 0 0 90px;
+	padding:8px 14px 12px 16px;
+	width:300px;
+	height:6px;
+	font:16px Arial, Helvetica, sans-serif;
+	
+	}
+#mostra_login a:hover{
+	color:#FF0;
+	}
+
+#logout{
+	top: -20px;
+	color: #fff;
+	text-decoration: none;
+	margin:0 0 0 29px;
+	padding:0px 14px 12px 16px;
+	width:80px;
+	height:40px;
+	font:16px Arial, Helvetica, sans-serif;
+	border-radius:3px;
+	border: none;
+	background-color: #2C82CE;
+	}
+
+#logout:hover{
+color:#FF0;
+
+}
+#box_menu{
+	width:auto;
+	/*background:url(../img/menu_topo.png) repeat;
+	*/
+	background: #2C82CE;
+	height:40px;
+	margin:-17px auto;
+	}
+#menu_topo{
+	width:980px;
+	height:40px;
+	margin:auto;
+	}
+#menu_topo ul{
+	list-style:none;
+	}
+#menu_topo ul li{
+	float:left;
+	display:inline;
+	padding: 0px 5px;	
+	margin-left: 0px;
+	}
+#menu_topo ul li a{
+	float:left;
+	color:#FFF;
+	font:14px Arial, Helvetica, sans-serif;
+	margin:0px 0 0 0;
+	padding:10px 50px 13.5px 50px;
+	text-transform:uppercase;
+	text-decoration:none;
+	}
+#menu_topo ul li .a{
+	margin:0px 0 0 -38px;
+	}
+#menu_topo ul li a:hover{
+	background:#0E6DBC;
+	color:#FF0;
+	}
+#menu_topo img{
+	float:left;
+	margin:-0px 0 0 0;
+	}
+#menu_topo li ul{
+	display:none;
+	position:absolute;
+	top:276px;
+	width:160px;
+
+	}
+#menu_topo li:hover ul{
+	display:block;
+	
+
+	}
+#menu_topo li ul a{
+	width:160px;
+	background: #2C82CE;
+	text-transform:none;
+	padding:10px 19px 17px 10px;
+	margin:-17px 0px 17px -44px;
+	border-radius:1.5px;
+	}
+#menu_topo li ul a:hover{
+	background:#0E6DBC;
+	color:#FF0;
+	}

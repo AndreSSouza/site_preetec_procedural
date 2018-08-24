@@ -1,0 +1,77 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+
+/*=================================== Aluno ================================*/
+	
+#box_aluno{
+	width:978px;
+	background:#F5F5F5;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 182px;
+	border:1px solid #333;
+	}
+#box_aluno h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 10px;
+	color:#000;
+	}
+#box_aluno h2{
+	font:16px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#999;
+	}
+#box_aluno table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:auto auto 5px auto;
+	font:12px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_aluno h2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#900;
+	}
+#box_aluno .input{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	width:150px;
+	padding:5px;
+	height:15px;
+	}
+#box_aluno select{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	width:210px;
+	padding:5px;
+	height:30px;
+	}
+#box_aluno .input2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	width:30px;
+	padding:5px;
+	height:15px;
+	}
+#box_aluno .a{
+	float:left;
+	margin:10px;
+	padding:10px;
+	border:1px solid #999;
+	background:#063;
+	color:#FFF;
+	text-decoration:none;
+	}
+#box_aluno .a:hover{
+	background:#030;
+	}

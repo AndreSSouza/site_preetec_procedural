@@ -1,0 +1,28 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+#box{
+	width:978px;
+	height:300px;
+	margin:-20px auto;
+	text-align:left;
+	border:1px solid #333;
+	}
+	
+#box h1{
+	font:30px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#333;
+	}	
+#box a{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#00F;
+	}	

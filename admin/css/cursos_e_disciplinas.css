@@ -1,0 +1,296 @@
+#caixa_preta{
+	background:#000;
+	width:980px;
+	margin:18px auto;
+	height:15px;
+	}
+
+/*=================================== CADASTRAR CURSOS ================================*/
+	
+#box_curso{
+	width:978px;
+	background:#2C82CE;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	}
+#box_curso .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_curso .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#box_curso h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#box_curso h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#box_curso table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_curso h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_curso select{
+	width:250px;
+	padding:5px;
+	height:30px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_curso input{
+	width:250px;
+	padding:5px;
+	height:17px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_curso .input{
+	width:100px;
+	padding:5px;
+	height:33px;
+	background:#090;
+	color:#FFF;
+	cursor:pointer;
+	border:1px solid #CCC;
+	}
+
+
+
+
+/*=================================== CADASTRAR MODULOS ================================*/
+	
+#box_disciplinas{
+	width:978px;
+	background-color:#2C82CE;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	padding: 20px 0px;
+	}
+#box_disciplinas .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_disciplinas .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#box_disciplinas h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#box_disciplinas h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#box_disciplinas table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_disciplinas em{
+	font:11px Arial, Helvetica, sans-serif;
+	color:#F90;
+	}
+#box_disciplinas h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_disciplinas select{
+	width:160px;
+	padding:5px;
+	height:30px;
+	color:#F60;
+	margin:0 0 10px 0;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_disciplinas input{
+	width:150px;
+	margin:0 0 10px 0;
+	padding:5px;
+	height:17px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_disciplinas .input{
+	width:100px;
+	padding:5px;
+	height:33px;
+	background:#090;
+	color:#FFF;
+	cursor:pointer;
+	border:1px solid #CCC;
+	}
+
+
+
+
+
+/*=================================== CADASTRAR CURSOS ================================*/
+	
+/* #box_curso{
+	width:978px;
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	}
+#box_curso .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_curso .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#box_curso h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#box_curso h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#box_curso table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_curso h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_curso select{
+	width:250px;
+	padding:5px;
+	height:30px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_curso input{
+	width:250px;
+	padding:5px;
+	height:17px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_curso .input{
+	width:100px;
+	padding:5px;
+	height:33px;
+	background:#090;
+	color:#FFF;
+	cursor:pointer;
+	border:1px solid #CCC;
+	}
+
+	*/
+
+
+
+/*=================================== CURSOS E DISCIPLINAS ================================*/
+
+#box_curso_e_disciplinas{
+	width:978px;
+	background:#E1E1C4;
+	height:auto;
+	float:left;
+	text-align:left;
+	margin:-20px 0 20px 190px;
+	border:1px solid #333;
+	}
+#box_curso_e_disciplinas .a2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:30px 0 10px 37px;
+	color:#FFF;
+	background:#090;
+	text-decoration:none;
+	padding:10px;
+	border:1px solid #000;
+	}
+#box_curso_e_disciplinas .a2:hover{
+	border:1px solid #0FF;
+	background:#030;
+	}
+#box_curso_e_disciplinas h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:15px 0 10px 37px;
+	color:#000;
+	}
+#box_curso_e_disciplinas h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 37px;
+	color:#900;
+	}
+#box_curso_e_disciplinas table{
+	border:1px solid #333;
+	padding:10px;
+	background:#FFF;
+	margin:0 0 10px 0;
+	margin:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	text-align:left;
+	}
+#box_curso_e_disciplinas h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:2px 0 0 0;
+	color:#900;
+	}
+#box_curso_e_disciplinas textarea{
+	width:900px;
+	padding:5px;
+	height:80px;
+	color:#F60;
+	font:15px Arial, Helvetica, sans-serif;
+	}
